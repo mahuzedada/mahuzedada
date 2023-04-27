@@ -9,11 +9,11 @@ Feel free to explore my repositories and get inspired by the projects I've been 
 
 Here's a glimpse of the skills I've honed:
 
-🌟 Languages: JavaScript, Python, Java, Go, C, C++, C#, SQL
-🎡 State management: Redux, MobX
-🚀 Web Frameworks: React, Angular, Svelte, Node.js, Vue, Nuxt, Next, Nest, Astro, Ngrx, Redux, Tailwind, Material-UI
-🔧 REST Frameworks: .NET and Azure, Java Spring Boot
-☁️ Cloud Technologies: AWS, Terraform, Netlify, Vercel, Azure, GCP
-📦 Containerization: Docker
-🤖 Other: ChatGPT Prompt Engineer, Polymer
+- 🌟 Languages: JavaScript, Python, Java, Go, C, C++, C#, SQL
+- 🎡 State management: Redux, MobX
+- 🚀 Web Frameworks: React, Angular, Svelte, Node.js, Vue, Nuxt, Next, Nest, Astro, Ngrx, Redux, Tailwind, Material-UI
+- 🔧 REST Frameworks: .NET and Azure, Java Spring Boot
+- ☁️ Cloud Technologies: AWS, Terraform, Netlify, Vercel, Azure, GCP
+- 📦 Containerization: Docker
+- 🤖 Other: ChatGPT Prompt Engineer, Polymer
 
