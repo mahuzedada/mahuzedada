@@ -1,12 +1,14 @@
-# Hi, I'm Adewale
+# Hi, I'm Adewale Santos
 
-I'm a senior engineer with a deep passion for data visualization. I'm also passionate about microservices particularly how to build large scale systems that are easy to debug and maintain.
-
+Software engineer with leadership experience. Expert in design systems and system automation.
+ 
 ## What I Do
 
-- **Productivity Tools**: I love crafting tools that enhance developer productivity and workflow
-- **Fullstack Development**: Creating end-to-end solutions with a focus on reliance and maintainability
+- **UI Library**: I love building tools that make it easy to craft amazing user experiences.
+- **Productivity Tools**: I love crafting tools that enhance productivity and workflow
 
 ## My Philosophy 🎯
 
 You can make great impact by simply caring. 
+
+[visit me here](https://adewalesantos.com/site/adewale-santos)
