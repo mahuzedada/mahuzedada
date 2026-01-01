@@ -7,7 +7,7 @@ Software engineer with leadership experience. Expert in design systems and syste
 - **UI Library**: I love building tools that make it easy to craft amazing user experiences.
 - **Productivity Tools**: I love crafting tools that enhance productivity and workflow
 
-## My Philosophy 🎯
+## My Philosophy
 
 You can make great impact by simply caring. 
 
